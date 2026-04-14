@@ -15,7 +15,6 @@ telco-customer-segmentation/
 │   └── unsupervised_telco_segmentation_report.pdf
 ├── images/
 │   └── telco_clusters_pca.png
-├── data/                       # optional, or exclude with .gitignore
 └── requirements.txt
 ```
 
